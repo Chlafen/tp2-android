@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tp2work</string>
+    <string name="name">Name</string>
+    <string name="prenom">prenom</string>
+    <string name="defaultGender">N</string>
+    <string name="search">Search</string>
+    <string name="absent">absent</string>
+    <string name="filter_by_absence">Filter by absence:</string>
+</resources>
